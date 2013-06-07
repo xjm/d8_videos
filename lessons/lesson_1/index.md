@@ -29,8 +29,8 @@ modules, themes, and profiles used by Drupal core.
 instead. It contains all core's modules, themes, libraries, and profiles. This
 makes it easier to see which files are part of Drupal core.
 
-*(Open the root directory again)* In previous versions of Drupal, modules and
-themes always had to be placed inside the `sites` directory.
+In previous versions of Drupal, modules and themes always had to be placed
+inside the `sites` directory.
 
 ![Drupal 7: place modules in sites/all/modules](directories_d7.png)
 
