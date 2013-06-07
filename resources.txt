@@ -2,7 +2,7 @@
 
 * [Change records for Drupal core](https://drupal.org/list-changes/drupal)
 * [D8CX.org](http://d8cx.org/)
-* [The Pants module](https://drupal.org/project/pants)
+* [The Pants module (module upgrade tutorial)](https://drupal.org/project/pants)
 * [One Drupal 8 Slide Deck to Rule Them All](https://drupal.org/sandbox/xjm/2012090)
 
 ## DrupalCon Portland sessions
