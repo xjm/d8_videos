@@ -10,7 +10,6 @@
 ### Watch first
 * [The State of Drupal 8](http://www.youtube.com/watch?v=E3wOfXaBfnI)
 * [Upgrading Your Modules to Drupal 8](https://portland2013.drupal.org/session/upgrading-your-modules-drupal-8)
-* [Dries & Company Q&A](https://portland2013.drupal.org/session/dries-company-qa)
 
 ### Drupal 8 APIs
 * [The Old and New Field API in Drupal 8](https://portland2013.drupal.org/content/old-and-new-field-api-drupal-8)
