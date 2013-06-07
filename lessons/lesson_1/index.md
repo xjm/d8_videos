@@ -20,6 +20,8 @@ contains several subdirectories:
 * sites
 * themes
 
+### Where to place site modules and themes
+
 *(Open the `modules` directory)* If you open the `modules` directory,
 you'll notice right away that it's empty. So are the `themes` and `profiles`
 directories. In previous versions of Drupal, these directories contained the
@@ -39,6 +41,28 @@ profiles in these root directories. Just be sure not to modify the contents of
 the `core` folder.
 
 ![Drupal 8: place modules in the root modules directory, but not in the core/modules directory](directories_d8.png)
+
+### The `core` directory
+
+*(Open the `core` directory)* Let's take a closer look at the contents of the
+`core` directory. It has a number of different files and subdirectories. The
+subdirectories it contains are:
+
+* includes
+* lib
+* misc
+* modules
+* profiles
+* scripts
+* tests
+* themes
+* vendor
+
+*(Highlight `modules`, `profiles`, and `themes`)* We've already mentioned that
+the modules, themes, and profiles directories contain core's modules, profiles,
+and themes.
+
+*(Highlight the `lib` directory)*
 
 ## What's next?
 *
