@@ -20,7 +20,7 @@ each lesson will be linked under "What should I know first?"
 4. [Automated testing in Drupal 8](lessons/lesson_4/index.md)
 5. [Using the Drupal 8 configuration system](lessons/lesson_5/index.md)
 6. [Using blocks in Drupal 8](lessons/lesson_6/index.md)
-7  [The Drupal 8 Configuration API](lessons/lesson_7/index.md)
+7. [The Drupal 8 Configuration API](lessons/lesson_7/index.md)
 8. [Menus and routing in Drupal 8](lessons/lesson_8/index.md)
 9. [Forms in Drupal 8](lessons/lesson_9/index.md)
 10. [Plugins: The basics](lessons/lesson_10/index.md)
