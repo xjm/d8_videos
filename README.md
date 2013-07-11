@@ -23,14 +23,15 @@ each lesson will be linked under "What should I know first?"
 7. [The Drupal 8 Configuration API](lessons/lesson_7/index.md)
 8. [Menus and routing in Drupal 8](lessons/lesson_8/index.md)
 9. [Forms in Drupal 8](lessons/lesson_9/index.md)
-10. [Plugins: The basics](lessons/lesson_10/index.md)
-11. [Plugins: Advanced](lessons/lesson_11/index.md)
-12. [Working with entities in Drupal 8](lessons/lesson_12/index.md)
-13. [Defining your own entity types in Drupal 8](lessons/lesson_13/index.md)
-14. [Configuration entities](lessons/lesson_14/index.md)
-15. [Views plugins in Drupal 8](lessons/lesson_15/index.md)
-16. [Developing with Drupal 8 blocks](lessons/lesson_16/index.md)
-17. [Fields, widgets, and formatters in Drupal 8](lessons/lesson_17/index.md)
+10. [The Drupal 8 Cache API](lessons/lesson_10/index.md)
+11. [Plugins: The basics](lessons/lesson_11/index.md)
+12. [Plugins: Advanced](lessons/lesson_12/index.md)
+13. [Working with entities in Drupal 8](lessons/lesson_13/index.md)
+14. [Defining your own entity types in Drupal 8](lessons/lesson_14/index.md)
+15. [Configuration entities](lessons/lesson_15/index.md)
+16. [Views plugins in Drupal 8](lessons/lesson_16/index.md)
+17. [Developing with Drupal 8 blocks](lessons/lesson_17/index.md)
+18. [Fields, widgets, and formatters in Drupal 8](lessons/lesson_18/index.md)
 
 
 ## Credits
