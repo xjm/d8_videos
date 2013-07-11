@@ -62,7 +62,9 @@ subdirectories it contains are:
 the modules, themes, and profiles directories contain core's modules, profiles,
 and themes.
 
-*(Highlight the `lib` directory)*
+*(Highlight the `lib` directory)* The `lib` directory contains class files. In
+Drupal 8, each class is in a separate file. We'll talk about the contents of
+this directory more in [lesson 3](../lesson_3/index.md).
 
 ## What's next?
 *
