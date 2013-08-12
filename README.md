@@ -14,12 +14,12 @@ each lesson will be linked under "What should I know first?"
 
 ## Lessons
 
-1. [Drupal 8: What's inside the folder](lessons/in_the_folder/index.md)
-2. [Object-oriented PHP: The basics](lessons/oo_php/index.md)
-3. [OO patterns in Drupal 8: PSR-0, dependency injection, and more](lessons/psr0_di_more/index.md)
-4. [Automated testing in Drupal 8](lessons/automated_testing/index.md)
-5. [Using the Drupal 8 configuration system](lessons/using_config/index.md)
-6. [Using blocks in Drupal 8](lessons/using_blocks/index.md)
+1. [Drupal 8: What's inside the folder](lessons/in_the_folder/index.md) (drupalize.me)
+2. [Object-oriented PHP: The basics](lessons/oo_php/index.md) (BuildAModule)
+3. [OO patterns in Drupal 8: PSR-0, dependency injection, and more](lessons/psr0_di_more/index.md) (drupalize.me)
+4. [Automated testing in Drupal 8](lessons/automated_testing/index.md) (BuildAModule)
+5. [Using the Drupal 8 configuration system](lessons/using_config/index.md) (drupalize.me)
+6. [Using blocks in Drupal 8](lessons/using_blocks/index.md) (BuildAModule)
 7. [The Drupal 8 Configuration API](lessons/config_api/index.md)
 8. [Menus and routing in Drupal 8](lessons/menus_routing/index.md)
 9. [Forms in Drupal 8](lessons/forms_/index.md)
