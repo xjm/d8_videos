@@ -1,0 +1,7 @@
+About the configuration system
+What is considered configuration in Drupal 8
+location of configuration files
+yaml
+how to import, export, and synch configuration through the UI
+viewing diffs in the UI and in git
+git deployment workflow

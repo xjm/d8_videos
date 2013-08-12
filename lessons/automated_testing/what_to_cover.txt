@@ -1,0 +1,5 @@
+Test base classes
+placement in PSR-0
+$profile
+$modules
+phpunit tests

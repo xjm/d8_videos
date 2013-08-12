@@ -1,0 +1,7 @@
+/core
+/modules and /themes vs. sites/foo/
+config directories
+compiled PHP directory
+vendor directory
+lib directories (high-level, i.e. "this is where classes go"--leave most of this for 2nd video)
+phpunit tests

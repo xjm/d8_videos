@@ -1,0 +1,8 @@
+PHP version requirement
+brief summary of key concepts: what is a class, interface, method
+abstract classes and methods
+static methods
+public vs. protected (we don't use private)
+namespaces and use statments
+
+This should be exclusively about PHP language features, nothing Drupal other than stating the version requirement, so that people with an OO background can just skip it.

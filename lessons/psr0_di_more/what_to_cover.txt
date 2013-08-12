@@ -1,0 +1,7 @@
+replacement of class registry with PSR-0 autoloading
+the death of stdClass() objects
+naming conventions and typehinting standards
+what "dependency injection" means
+examples of APIs using classes and interfaces in Drupal 8 (mostly just a list)
+
+Mark pointed out that it would be best to put the basic PHP concepts first, and then stuff that's our usage/conventions/design patterns in the second half, so that we don't confuse people with (e.g.) thinking a use statement includes a class file. (Because a lot of D8 devs think that when they learn the two concepts together.) Also mentioned closures.
