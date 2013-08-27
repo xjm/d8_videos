@@ -1,12 +1,5 @@
 ## Object Oriented Programming Basics for PHP
 
-## To-dos
-
-1. Cover type-hinting
-1. Cover inheretance
-1. Cover creating an interface
-1. Switch to camelCasing for method names
-
 This is a narrative walking thorugh what will eventually be covered in video form. We'll be walking through the following concepts:
 
 1. Side-by-side comparison of proceedural and object-oriented code
@@ -20,6 +13,13 @@ This is a narrative walking thorugh what will eventually be covered in video for
 This lesson assumes that you have worked with PHP code before and that you have little OOP experience.
 
 We will be working through some example code which is packaged with this lesson. You will need a working web server with PHP 5.3 or above installed. You can use [Acquia's Dev Desktop](http://www.acquia.com/products-services/dev-desktop) to get an enviornment running quick.
+
+## To-dos
+
+1. Cover type-hinting
+1. Cover inheretance
+1. Cover creating an interface
+1. Switch to camelCasing for method names
 
 ## Resources
 
