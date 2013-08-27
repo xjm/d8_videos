@@ -15,11 +15,6 @@ This lesson assumes that you have worked with PHP code before and that you have 
 We will be working through some example code which is packaged with this lesson. You will need a working web server with PHP 5.3 or above installed. You can use [Acquia's Dev Desktop](http://www.acquia.com/products-services/dev-desktop) to get an enviornment running quick.
 
 ## Outline and narrative
-
-
-PHP version requirement; brief summary of key concepts: what is a class, interface, method; abstract classes and methods; static methods; public vs. protected; we don't use private; namespaces and use statements
-
----------
  
 For those of us developers who have been working primarily in Drupal over the last several years, we may not have had the chance to work with object oriented code much. In Drupal 8, there's been some major overhauls to take advantage of object oriented principles and patterns. This both will allow Drupal to be more sustainable going into the future, and also presents a huge opportunity for us to upgrade our skills as well. 
 
