@@ -1,0 +1,24 @@
+<?php
+
+// Roll several dice and save the result in an array.
+function roll_dice($number_of_dice, $low = 1, $high = 6) {
+  for ($i = 0; $i < $number_of_dice; $i++) {
+    $number = rand($low, $high);
+    $result[] = $number;
+  }
+  return $result;
+}
+
+// Generate output of the dice numbers with a divider of some kind.
+function format_roll($result, $separator = ', ') {
+  $output = implode($separator, $result);
+  return $output;
+}
+
+
+// Let's do someting with these functions!
+
+$number_of_dice = 3;
+$number_of_rolls = 6;
+$result = roll_dice($number_of_dice);
+print format_roll($result);

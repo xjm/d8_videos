@@ -1,0 +1,30 @@
+<?php
+
+class Dice {
+  
+  function Dice($number_of_dice, $low = 1, $high = 6) {
+    $this->last_roll = array();
+    $this->default_separator = ', ';
+    $this->number_of_dice = $number_of_dice;
+    $this->low = $low;
+    $this->high = $high;
+  }
+  
+  function roll() {
+    for ($i = 0; $i < $this->number_of_dice; $i++) {
+      $number = rand($this->low, $this->high);
+      $result[] = $number;
+    }
+    $this->last_roll = $result;
+    return $result;
+  }
+  
+  function format_roll($separator = NULL) {
+    if (is_null($separator)) {
+      $separator = $this->default_separator;
+    }
+    $output = implode($separator, $this->last_roll);
+    return $output;
+  }
+  
+}

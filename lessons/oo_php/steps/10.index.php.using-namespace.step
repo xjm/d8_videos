@@ -1,0 +1,16 @@
+<?php
+
+require __DIR__ . '/classes/Dice.php';
+
+use Drupal8Videos\OOP\Dice;
+
+/*
+// Example of using the Dice class.
+$number_of_dice = 4;
+$dice = new Dice($number_of_dice);
+$dice->roll();
+print $dice->format_roll();
+*/
+
+// Let's call the wrap_in_brackets() method directly.
+print Dice::wrap_in_brackets(array(4,3,5,6));

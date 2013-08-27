@@ -1,0 +1,9 @@
+<?php
+
+require __DIR__ . '/classes/Dice.php';
+
+// Example of using the Dice class.
+$number_of_dice = 4;
+$dice = new Dice($number_of_dice);
+$dice->roll();
+print $dice->format_roll();

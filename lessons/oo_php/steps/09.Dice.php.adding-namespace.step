@@ -1,0 +1,40 @@
+<?php
+
+namespace Drupal8Videos\OOP;
+
+class Dice {
+  
+  function Dice($number_of_dice, $low = 1, $high = 6) {
+    $this->last_roll = array();
+    $this->default_separator = ', ';
+    $this->number_of_dice = $number_of_dice;
+    $this->low = $low;
+    $this->high = $high;
+  }
+  
+  function roll() {
+    for ($i = 0; $i < $this->number_of_dice; $i++) {
+      $result[] = $this->random_number_in_range();
+    }
+    $this->last_roll = $result;
+    return $result;
+  }
+  
+  function format_roll($separator = NULL) {
+    if (is_null($separator)) {
+      $output = $this->wrap_in_brackets($this->last_roll);
+    } else {
+      $output = implode($separator, $this->last_roll);
+    }
+    return $output;
+  }
+  
+  private function random_number_in_range() {
+    return rand($this->low, $this->high);
+  }
+  
+  static function wrap_in_brackets($number_array) {
+    return '[' . implode('] [', $number_array) . ']';
+  }
+  
+}
