@@ -1,4 +1,4 @@
-## Object Oriented Programming Basics for PHP
+# Object Oriented Programming Basics for PHP
 
 This is a narrative walking thorugh what will eventually be covered in video form. We'll be walking through the following concepts:
 

@@ -1,0 +1,11 @@
+<?php
+
+namespace Drupal\testme\Controller;
+
+class TestmeController {
+  public function testmePage() {
+    return array(
+      '#markup' => t("<p>And that's just what we'll do. One of these days these tests are gonna really rescue you.</p>"),
+    );
+  }
+}

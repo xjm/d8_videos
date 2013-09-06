@@ -1,0 +1,6 @@
+testme: 
+  pattern: '/testme-page'
+  defaults: 
+    _content: '\Drupal\testme\Controller\TestmeController::testmePage'
+  requirements: 
+    _permission: 'access content'

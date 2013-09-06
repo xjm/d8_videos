@@ -1,0 +1,24 @@
+<?php
+/**
+ * @file
+ * Implements some basic functionality for testing
+ */
+
+/**
+ * Implements hook_menu().
+ */
+function testme_menu() {
+  return array(
+    'testme-page' => array( 
+      'title' => 'This page was made for testing...', 
+      'route_name' => 'testme',
+    ), 
+  ); 
+}
+
+/**
+ * An easy to test utility function.
+ */
+function testme_congratulate_unit() {
+  return 'Nice unit!';
+}

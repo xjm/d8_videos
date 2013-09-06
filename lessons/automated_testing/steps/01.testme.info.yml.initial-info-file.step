@@ -1,0 +1,5 @@
+name: Testme
+description: A module to give us some things to test.
+core: 8.x
+package: Testme
+type: module
