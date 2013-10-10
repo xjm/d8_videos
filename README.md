@@ -39,3 +39,7 @@ each lesson will be linked under "What should I know first?"
 This project is a collaboration between
 [BuildAModule](http://buildamodule.com/), [drupalize.me](http://drupalize.me/),
 and the [Acquia](https://www.acquia.com/) Office of the CTO.
+
+## License
+
+This curriculum is made freely available under the [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)). You are free to use, share, and modify this work, but you must give attribution by linking back to the [GitHub repository](https://github.com/xjm/d8_videos), and you must share your modified work under this same license.
