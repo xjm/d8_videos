@@ -14,11 +14,11 @@ each lesson will be linked under "What should I know first?"
 
 ## Lessons
 
-1. [Drupal 8: What's inside the folder](lessons/in_the_folder/index.md) (drupalize.me)
+1. [Drupal 8: What's inside the folder](lessons/in_the_folder/index.md) (Drupalize.Me)
 2. [Object-oriented PHP: The basics](lessons/oo_php/index.md) (BuildAModule)
-3. [OO patterns in Drupal 8: PSR-0, dependency injection, and more](lessons/psr0_di_more/index.md) (drupalize.me)
+3. [OO patterns in Drupal 8: PSR-0, dependency injection, and more](lessons/psr0_di_more/index.md) (Drupalize.Me)
 4. [Automated testing in Drupal 8](lessons/automated_testing/index.md) (BuildAModule)
-5. [Using the Drupal 8 configuration system](lessons/using_config/index.md) (drupalize.me)
+5. [Using the Drupal 8 configuration system](lessons/using_config/index.md) (Drupalize.Me)
 6. [Using blocks in Drupal 8](lessons/using_blocks/index.md) (BuildAModule)
 7. [The Drupal 8 Configuration API](lessons/config_api/index.md)
 8. [Menus and routing in Drupal 8](lessons/menus_routing/index.md)
@@ -37,7 +37,7 @@ each lesson will be linked under "What should I know first?"
 ## Credits
 
 This project is a collaboration between
-[BuildAModule](http://buildamodule.com/), [drupalize.me](http://drupalize.me/),
+[BuildAModule](http://buildamodule.com/), [Drupalize.Me](http://drupalize.me/),
 and the [Acquia](https://www.acquia.com/) Office of the CTO.
 
 ## License
